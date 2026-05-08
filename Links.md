@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-08 20:29 IR
+- 📱 [NekoBox-1.4.2-arm64-v8a.apk](https://github.com/sherjan1/sandbox/raw/main/dl/NekoBox-1.4.2-arm64-v8a.apk) `14.5MB`
+
+---
+
+
 ### 📅 2026-05-06 01:53 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.9.14.apk](https://github.com/sherjan1/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.14.apk) `18.1MB`
 
