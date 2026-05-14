@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 13:05 IR
+- 🗜️ [Hiddify-Android-arm7.apk.zip](https://github.com/sherjan1/sandbox/raw/main/dl/Hiddify-Android-arm7.apk.zip) `42.8MB`
+
+- 🗜️ [Hiddify-Android-arm7.apk.zip](https://github.com/sherjan1/sandbox/raw/main/dl/Hiddify-Android-arm7.apk.zip) `42.8MB`
+
+---
+
+
 ### 📅 2026-05-14 13:01 IR
 - 🗜️ [Hiddify-Android-arm64.apk.zip](https://github.com/sherjan1/sandbox/raw/main/dl/Hiddify-Android-arm64.apk.zip) `44.0MB`
 
